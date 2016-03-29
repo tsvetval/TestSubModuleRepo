@@ -20,5 +20,6 @@
 
     <modules>
         <module>module1</module>
+        <module>submodule</module>
     </modules>
 </project>
